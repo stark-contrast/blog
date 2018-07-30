@@ -24,7 +24,6 @@ Anyone really! We foresee this being a culmination of posts from designers, engi
 ### How it works
 #### SUBMITTING
 - 💌 Submit a proposal for a new or a previously published piece via our Github issues. (The template is already in there be it a proposal for both)
-- 🏷 Label it accordingly
 - 💬 We’ll reply within a a few hours to a couple days.
 - 🚫 If we say no, we’ll tell you exactly why and help you shape the idea we think could fit best (if you want!).
 - ✅ If we say yes, you work on it and submit whenever works best for you.
