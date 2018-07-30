@@ -4,6 +4,8 @@ about: Click to submit a blog post idea or content to be re-published
 
 ---
 
+## Replace this with proposed Title
+
 ## Type of Post
 - [ ] New post idea
 - [ ] Re-Publish
