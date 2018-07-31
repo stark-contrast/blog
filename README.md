@@ -32,5 +32,7 @@ Anyone really! We foresee this being a culmination of posts from designers, engi
 #### WRITING
 We don’t care how long a post takes to write because good things take time. Much like the newsletter, we want to ensure this blog is a place for signal rather than noise. And let’s be honest, the world is noisy enough ¯\_(ツ)_/¯
 
+Also, contribute as much as you're willing to submit proposals for. You're not required or on the hook for anything. We do ask that if you commit to a deadline you try to keep us posted if something is running behind.
+
 ### Code of Conduct
 We’re firm believers that the world is better in color, with a variety of shapes, sizes and opinions. We value disagreement but we have zero tolerance for harassment, bullying, racism, sexism or discrimination of any kind. See anything of this going on? Approach [Cat](http://twitter.com/imcatnoone) about it immediately. We're a community of folks coming together to ideally make the world a better place. Don't be an asshole.
