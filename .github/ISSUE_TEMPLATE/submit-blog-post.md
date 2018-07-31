@@ -27,5 +27,5 @@ A post can fall into more than one topic. Select all that apply.
 - [ ] Typography
 - [ ] Other
 
-##Proposed Submission Date
+## Proposed Submission Date
 DD / MM / YYYY
