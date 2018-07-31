@@ -11,10 +11,10 @@ We don’t care how long a post takes to write because good things take time. Mu
 Also, contribute as much as you're willing to submit proposals for. You're not required or on the hook for anything. We do ask that if you commit to a deadline you try to keep us posted if something is running behind.
 
 ### Writing
-- We use Kirby for our blog. Once your proposal is accepted, we'll go ahead and invite you to the dashboard so you can get started.
+- We use Kirby for our blog. Once your proposal is accepted, we'll go ahead and add your info to the dashboard so you can get started.
 - After or during writing, we're happy to proof-read it for you.
-- When you're ready, toss it into Kirby (more coming soon on how to use the dashboard -- it's super simply) and keep it set to `invisible`
-- We'll review it and let you know our thoughts or if it's ready to go live :)
+- When you're ready, we'll toss it into Kirby and show you a `preview` link to triple-check everything.
+- We put it in line to go live :)
 
 *More on this coming soon, or at least revisions to this section*
 
