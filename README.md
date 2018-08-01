@@ -43,4 +43,6 @@ Also, contribute as much as you're willing to submit proposals for. You're not r
 - 👀 Worried someone in the community may see your topic idea, steal and write about it before you can? It technically can happen, but the odds are statistically proven to decrease when you share it + generally speaking this community is very helpful.
 
 ### Code of Conduct
-We’re firm believers that the world is better in color, with a variety of shapes, sizes and opinions. We value disagreement but we have zero tolerance for harassment, bullying, racism, sexism or discrimination of any kind. See anything of this going on? Approach [Cat](http://twitter.com/imcatnoone) about it immediately. We're a community of folks coming together to ideally make the world a better place. Don't be an asshole.
+Before contributing be sure to read through our [Code of Conduct](https://github.com/stark-contrast/code-of-conduct#stark---code-of-conduct). 
+
+TLDR: We’re firm believers that the world is better in color, with a variety of shapes, sizes and opinions. We value disagreement but we have zero tolerance for harassment, bullying, racism, sexism or discrimination of any kind. See anything of this going on? Approach [Cat](http://twitter.com/imcatnoone) or [Emaly](http://twitter.com/itsemaly) about it immediately on our [Stark Community](http://spectrum.chat/stark) channel. We're a community of folks coming together to ideally make the world a better place. Don't be an asshole.
